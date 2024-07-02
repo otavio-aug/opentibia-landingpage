@@ -1,0 +1,13 @@
+{
+    "servers": [
+        {
+            "name": "Test",
+            "type": "Retro",
+            "creationDate": "30/06/2024",
+            "serverLocation": "Canadá",
+            "siteUrl": "localhost",
+            "isNew": true
+        }
+
+    ]
+}
