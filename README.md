@@ -1,6 +1,8 @@
 # Open Tibia Landing Page
 Um projeto que acabei pegando como trabalho, que, no final, acabei gostando do resultado e utilizando no meu portfólio.
 
+Para o uso da landing page, é necessário implementar uma nova rota em sua aplicação, sendo `url/api/infos.php` (a julgar que você esteja usando algum AAC escrito em php), você pode encontrar um exemplo de como fazer isto no gesiorAAC [aqui](https://github.com/httpsotavio/gesior). É necessário a implementação desta rota para a atualização de jogadores atualmente online, record de jogadores online e o atual status do servidor.
+
 ## Técnologias
 
 Foi utilizado apenas React.
