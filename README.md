@@ -20,3 +20,5 @@ Após, abra o terminel e vá até a pasta da aplicação e rode o comando `npm i
 
 # Preview
 ![Preview](./.github/preview.gif)
+
+[Live](opentibialandingpage.vercel.app)
