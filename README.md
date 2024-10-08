@@ -5,8 +5,9 @@ Para o uso da landing page, é necessário implementar uma nova rota em sua apli
 
 ## Técnologias
 
-TypeScript
-React
+- TypeScript
+- React
+- CSS3
 
 ## FYI (leigos, conteúdo do fórum!)
 Todo este projeto, no final, se tornará alguns arquivos que você hospedará, você deverá instalar o [node](https://nodejs.org/en/download/package-manager/current), logo após baixar o repositório direto do github.
